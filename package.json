@@ -55,7 +55,7 @@
     "react-resizable-panels": "^2.1.7",
     "recharts": "latest",
     "shadcn-ui": "^0.9.4",
-    "sonner": "^1.7.1",
+    "sonner": "^1.7.2",
     "tailwind-merge": "^2.5.5",
     "tailwindcss-animate": "^1.0.7",
     "vaul": "^0.9.6",
